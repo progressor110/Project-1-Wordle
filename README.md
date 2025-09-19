@@ -6,7 +6,7 @@ Submitted by: **Marcus Ezell**
 
 **Wordle** is an app that ... [TODO] is being recreated step-by-step to produce the output that the original app is producing.
 
-Time spent: **6** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
